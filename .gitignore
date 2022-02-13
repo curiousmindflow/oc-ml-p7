@@ -1,4 +1,6 @@
-data
+data/stackoverflow*
+data/raw_data.csv
+data/data_cleaned.csv
 __pycache__
 temp
 notes.txt
