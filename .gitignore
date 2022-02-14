@@ -1,6 +1,7 @@
 data/stackoverflow*
 data/raw_data.csv
 data/data_cleaned.csv
+data/bert_se/*.csv
 __pycache__
 temp
 notes.txt
